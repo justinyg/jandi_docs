@@ -1,13 +1,6 @@
 # Summary
 
-* [JANDI 사용법](README.md)
-
-### 우선 시작해보기
-
-* [우선 시작해보기](1. 우선 시작해보기.md)
-* [우선 시작해보기](.md)
-  * 회원 초대하기
-  * 토픽 생성하기
+* [1 우선 시작해보기](getting_started.md)
 
 ### 토픽 활용 방법
 
@@ -18,4 +11,4 @@
 
 ----
 
-* [FAQ]()
+* [FAQ](https://jandi.zendesk.com/hc/ko)
