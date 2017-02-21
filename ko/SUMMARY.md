@@ -1,11 +1,11 @@
 # Summary
 
-* [1 우선 시작해보기](getting_started.md)
-	* [1.1 회원 가입하기](getting_started.md#11-회원-가입하기)
-	* [1.2 팀 생성하기](getting_started.md#12-팀-생성하기)
-	* [1.3 동료 초대하기](getting_started.md#13-동료-초대하기)
-	* [1.4 기본 토픽 수정하기](getting_started.md#14-기본-토픽-수정하기)
-	* [1.5 토픽 생성하기](getting_started.md#15-토픽-생성하기)
+* [우선 시작해보기](getting_started.md)
+	* [1 회원 가입하기](getting_started.md#회원-가입하기)
+	* [2 팀 생성하기](getting_started.md#팀-생성하기)
+	* [3 동료 초대하기](getting_started.md#동료-초대하기)
+	* [4 기본 토픽 수정하기](getting_started.md#기본-토픽-수정하기)
+	* [5 토픽 생성하기](getting_started.md#토픽-생성하기)
 
 
 ### Basics
