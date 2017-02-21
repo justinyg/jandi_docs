@@ -1,10 +1,11 @@
 # Summary
 
 * [1 우선 시작해보기](getting_started.md)
-	* [1.1 회원 가입하기](getting_started#1_1)
-	* [1.2 팀 생성하기](getting_started#1_2)
-	* [1.3 동료 초대하기](getting_started#1_3)
-	* [1.4 기본 토픽 수정하기](getting_started#1_4)
+	* [1.1 회원 가입하기](getting_started.md#1_1)
+	* [1.2 팀 생성하기](getting_started.md#1_2)
+	* [1.3 동료 초대하기](getting_started.md#1_3)
+	* [1.4 기본 토픽 수정하기](getting_started.md#1_4)
+	* [1.5 토픽 생성하기]()
 
 
 ### Basics
@@ -16,6 +17,7 @@
 	* 관리자 외 초대 막기
 * 토픽
 	* 토픽이란?
+	* [공개 토픽과 비공개 토픽](part02/private_topic.md)
 	* 공지 전용 토픽 만들기
 	* 최신 순서로 토픽 보기
 	* 토픽을 구조화하기
