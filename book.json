@@ -1,18 +1,10 @@
 {
   "plugins": [
     "youtube",
-    "anchor-navigation-ex",
     "expandable-chapters",
     "page-footer-ex"
   ],
   "pluginsConfig": {    
-    "anchor-navigation-ex":{
-      "isRewritePageTitle":true,
-      "isShowTocTitleIcon":true,
-      "tocLevel1Icon":"fa fa-book",
-      "tocLevel2Icon":"fa fa-file-text-o",
-      "tocLevel3Icon":"fa fa-file-text-o"
-    },
     "page-footer-ex":{
       "page-footer-ex":"mrcode",
       "update_label":"update",
