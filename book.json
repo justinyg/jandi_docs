@@ -1,22 +1,23 @@
 {
-    	"plugins": [
-		"youtube",
-		"anchor-navigation-ex",
-		"expandable-chapters",
-		"page-footer-ex"
-	],
- 	"pluginsConfig": {    
-        "anchor-navigation-ex":{
-            "isRewritePageTitle":true,
-            "isShowTocTitleIcon":true,
-            "tocLevel1Icon":"fa fa-book",
-            "tocLevel2Icon":"fa fa-file-text-o",
-            "tocLevel3Icon":"fa fa-file-text-o"
-        },
-	"anchor-navigation-ex":{
-            "page-footer-ex":"mrcode",
-            "update_label":"update",
-            "update_format":"YYYY-MM-DD HH:mm:ss",
-        }      
+  "plugins": [
+    "youtube",
+    "anchor-navigation-ex",
+    "expandable-chapters",
+    "page-footer-ex"
+  ],
+  "pluginsConfig": {    
+    "anchor-navigation-ex":{
+      "isRewritePageTitle":true,
+      "isShowTocTitleIcon":true,
+      "tocLevel1Icon":"fa fa-book",
+      "tocLevel2Icon":"fa fa-file-text-o",
+      "tocLevel3Icon":"fa fa-file-text-o"
+    },
+    "expandable-chapters":{}
+    "page-footer-ex":{
+      "page-footer-ex":"mrcode",
+      "update_label":"update",
+      "update_format":"YYYY-MM-DD HH:mm:ss"
+    } 
   } 
 }
