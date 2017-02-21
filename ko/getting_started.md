@@ -5,11 +5,11 @@
 
 ### 1.1 회원 가입하기<a name="1_1"></a>
 
-{% youtube src="https://youtu.be/VxqaUhaMj6k" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=VxqaUhaMj6k" %}{% endyoutube %}
 
 ### 1.2 팀 생성하기<a name="1_2"></a>
 
-{% youtube src="https://youtu.be/hRwocSUoA4Y" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=hRwocSUoA4Y" %}{% endyoutube %}
 
 ### 1.3 동료 초대하기<a name="1_3"></a>
 **잔디**를 제대로 사용하기 위해서는 우선 함께 소통할 동료가 필요합니다. 생성한 팀을 함께 사용할 동료를 초대하는 방법은 PC와 모바일에서 사용할 수 있습니다. PC 클라이언트의 경우, 좌상단의 `햄버거 메뉴`를 클릭하고 `+ 새로운 멤버 초대하기`를 선택합니다.
