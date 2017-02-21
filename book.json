@@ -1,9 +1,9 @@
 {
-    	"plugins": ["youtube"]
-	"plugins": ["anchor-navigation-ex"]
-}
-{
- "pluginsConfig": {    
+    	"plugins": [
+		"youtube",
+		"anchor-navigation-ex"]
+	],
+ 	"pluginsConfig": {    
         "anchor-navigation-ex":{
             "isRewritePageTitle":true,
             "isShowTocTitleIcon":false,
