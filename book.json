@@ -1,4 +1,15 @@
 {
-    "plugins": ["youtube"]
+    	"plugins": ["youtube"]
+	"plugins": ["anchor-navigation-ex"]
 }
-
+{
+ "pluginsConfig": {    
+        "anchor-navigation-ex":{
+            "isRewritePageTitle":true,
+            "isShowTocTitleIcon":false,
+            "tocLevel1Icon":"fa fa-hand-o-right",
+            "tocLevel2Icon":"fa fa-hand-o-right",
+            "tocLevel3Icon":"fa fa-hand-o-right"
+        }      
+  } 
+}
