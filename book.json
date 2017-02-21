@@ -5,7 +5,7 @@
 	],
  	"pluginsConfig": {    
         "anchor-navigation-ex":{
-            "isRewritePageTitle":true,
+            "isRewritePageTitle":false,
             "isShowTocTitleIcon":false,
             "tocLevel1Icon":"fa fa-hand-o-right",
             "tocLevel2Icon":"fa fa-hand-o-right",
