@@ -1,26 +1,26 @@
 # Summary
 
 * [우선 시작해보기](getting_started.md)
-	* [1. 회원 가입하기](getting_started.md#11)
-	* [2. 팀 생성하기](getting_started.md#12)
-	* [3. 동료 초대하기](getting_started.md#13)
-	* [4. 기본 토픽 수정하기](getting_started.md#14)
-	* [5. 토픽 생성하기](getting_started.md#15)
+	* [회원 가입하기](getting_started.md#회원-가입하기)
+	* [팀 생성하기](getting_started.md#팀-생성하기)
+	* [동료 초대하기](getting_started.md#동료-초대하기)
+	* [기본 토픽 수정하기](getting_started.md#기본-토픽-수정하기)
+	* [토픽 생성하기](getting_started.md#기본-토픽-수정하기)
 
 ### Basics
 
 * [프로필 설정하기](profile.md)
 * [초대하기](invite.md)
-	* [1. 다른 메신저에서 동료 초대하기]()
-	* [2. 초대 링크를 공유하기]()
-	* [3. 관리자 외 초대 막기]()
-* 토픽
+	* [다른 메신저에서 동료 초대하기]()
+	* [초대 링크를 공유하기]()
+	* [관리자 외 초대 막기]()
+* [토픽](topic.md)
 	* 토픽이란?
-	* [공개 토픽과 비공개 토픽](part02/private_topic.md)
-	* 공지 전용 토픽 만들기
+	* [공개 토픽과 비공개 토픽](topic.md#공개-토픽과-비공개-토픽)
 	* 최신 순서로 토픽 보기
 	* 토픽을 구조화하기
 	* 빠른 토픽 진입
+	* 공지 전용 토픽 만들기
 * 1:1 대화
 
 ### 활용 기능
