@@ -1,7 +1,7 @@
 {
     	"plugins": [
 		"youtube",
-		"anchor-navigation-ex"]
+		"anchor-navigation-ex"
 	],
  	"pluginsConfig": {    
         "anchor-navigation-ex":{
