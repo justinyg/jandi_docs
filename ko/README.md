@@ -6,6 +6,6 @@
 
 **잔디** 데모 영상
 
-{% youtube src="https://youtu.be/e6hsGlVltuk?list=PLrb1xAkbNxGlNSayaGHsuAlbeCStszgXK" %}{% endyoutube %}
+{% youtube src="https://youtu.be/e6hsGlVltuk" %}{% endyoutube %}
 
 이 문서는 PDF 혹은 웹 페이지의 형태로 제공됩니다. 언제든지 https://docs.jandi.com 에서 다운로드 받으실 수 있습니다.
