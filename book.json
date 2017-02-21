@@ -13,7 +13,6 @@
       "tocLevel2Icon":"fa fa-file-text-o",
       "tocLevel3Icon":"fa fa-file-text-o"
     },
-    "expandable-chapters":{}
     "page-footer-ex":{
       "page-footer-ex":"mrcode",
       "update_label":"update",
@@ -21,3 +20,4 @@
     } 
   } 
 }
+
