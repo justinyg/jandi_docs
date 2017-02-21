@@ -2,7 +2,8 @@
   "plugins": [
     "youtube",
     "expandable-chapters",
-    "page-footer-ex"
+    "page-footer-ex",
+    "heading-anchors"
   ],
   "pluginsConfig": {    
     "page-footer-ex":{
