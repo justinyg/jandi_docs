@@ -1,6 +1,6 @@
 # Summary
 
-* [우선 시작해보기](getting_started.md)
+* [1 우선 시작해보기](part01/getting_started.md)
 
 ### Basics
 
