@@ -1,5 +1,7 @@
-공개 토픽과 비공개 토픽
-=====
+## 토픽이란?
+
+## 공개 토픽과 비공개 토픽
+
 상황에 맞춰 토픽을 공개/비공개 대화방으로 만들 수 있습니다.
 
 - 공개 토픽은 모든 조직원이 자유롭게 참여하고 볼 수 있는 대화방입니다.
@@ -18,4 +20,38 @@
 - 반면 비공개 토픽은 검색되지 않으며, 참여하려면 반드시 초대되어야 합니다.
 - 1:1 메시지는 대화 참여자 두 명 외에는 누구도 열람 및 검색이 불가합니다.
 
+> **[warning] Warning**
 > 토픽 공개 여부 설정은 차후 변경이 불가합니다! 토픽을 처음 만들 때 꼭~ 주의깊게 설정해주세요.
+
+> **[info] info**
+> 토픽 공개 여부 설정은 차후 변경이 불가합니다! 토픽을 처음 만들 때 꼭~ 주의깊게 설정해주세요.
+
+> **[danger] danger**
+> 토픽 공개 여부 설정은 차후 변경이 불가합니다! 토픽을 처음 만들 때 꼭~ 주의깊게 설정해주세요.
+
+> **[success] success**
+> 토픽 공개 여부 설정은 차후 변경이 불가합니다! 토픽을 처음 만들 때 꼭~ 주의깊게 설정해주세요.
+
+
+## 최신 순서로 토픽 보기
+{% hint style='info' %}
+Important info: this note needs to be highlighted
+{% endhint %}
+
+{% hint style='tip' %}
+Important info: this note needs to be highlighted
+{% endhint %}
+
+{% hint style='danger' %}
+Important info: this note needs to be highlighted
+{% endhint %}
+
+{% hint style='working' %}
+Important info: this note needs to be highlighted
+{% endhint %}
+
+
+
+## 토픽을 구조화해서 보기
+
+## 빠른 토픽 진입
