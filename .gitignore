@@ -1,4 +1,7 @@
 .*
+_book/
+node_modules/
+
 # don't forget this one
 !.gitignore
 
