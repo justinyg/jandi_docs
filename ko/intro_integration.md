@@ -3,11 +3,11 @@
 
 **잔디 커넥트(JANDI Connect)**는 타 서비스를 **잔디**에 연결하여 메시지 알림을 받는 기능입니다. 여러 서비스를 계속 왔다갔다할 필요 없이 잔디에서 바로 자주 사용하는 서비스로 이동할 수 있어 편리합니다. 간단하게 이런 종류의 서비스를 **잔디**에서 확인하실 수 있습니다.
 
-<img src="images/intro-integration-03.png" />
+<img src="images/intro-integration-03.png" width="600" />
 
 현재 제공되고 있는 서비스는 아래와 같습니다.
 
-* Google calendar
+* Google Calendar
 * GitHub
 * Bitbucket
 * JIRA
