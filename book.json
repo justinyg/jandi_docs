@@ -4,8 +4,7 @@
     "expandable-chapters",
     "page-footer-ex",
     "heading-anchors",
-    "alerts",
-    "hints"
+    "alerts"
   ],
   "pluginsConfig": {    
     "page-footer-ex":{
